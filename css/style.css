@@ -109,18 +109,18 @@ ul.f-icons {
 }
 
 .header-right ul li a.facebook, .header-right ul li a.p, .header-right ul li a.twitter {
-    background: url(../images/icons.png) no-repeat 0px 0px;
+    background: url(../Images/icons.png) no-repeat 0px 0px;
     display: inline-block;
     height: 30px;
     width: 30px;
 }
 
 .header-right ul li a.p {
-    background: url(../images/icons.png) no-repeat -30px 0px;
+    background: url(../Images/icons.png) no-repeat -30px 0px;
 }
 
 .header-right ul li a.twitter {
-    background: url(../images/icons.png) no-repeat -60px 0px;
+    background: url(../Images/icons.png) no-repeat -60px 0px;
 }
 
 form.navbar-form.navbar-right {
@@ -213,7 +213,7 @@ a.sign {
 
 .banner {
     min-height: 722px;
-    background: url(/images/pics/1.jpg) no-repeat;
+    background: url(/Images/pics/1.jpg) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -274,7 +274,7 @@ a.sign {
     span.menu {
         width: 35px;
         height: 35px;
-        background: url(../images/nav.png)no-repeat 0px 0px;
+        background: url(../Images/nav.png)no-repeat 0px 0px;
         display: inline-block;
         float: right;
         cursor: pointer;
@@ -396,7 +396,7 @@ a.sign {
     text-decoration: none;
     height: 80px;
     width: 40px;
-    background: transparent url("../images/arrows.png") no-repeat left top;
+    background: transparent url("../Images/arrows.png") no-repeat left top;
     margin-top: 4%;
     display: none;
 }
@@ -477,13 +477,13 @@ a.sign {
     }
 
 /*.slide1{
-    background: url("/images/pics/1.jpg");
+    background: url("/Images/pics/1.jpg");
 }
 .slide2{
-    background: url("/images/pics/2.jpg");
+    background: url("/Images/pics/2.jpg");
 }
 .slide3{
-    background: url("/images/pics/3.jpg");
+    background: url("/Images/pics/3.jpg");
 }*/
 .callbacks_tabs {
     list-style: none;
@@ -684,7 +684,7 @@ a.sign {
     transition: all 0.4s ease-in-out;
     top: 10px;
     left: 10px;
-    background: #f9f9f9 url(../images/bg.jpg);
+    background: #f9f9f9 url(../Images/bg.jpg);
     box-shadow: 0 0 0 20px rgba(255,255,255,0.2), inset 0 0 3px rgba(115,114, 23, 0.8);
     background-size: cover;
 }
@@ -734,11 +734,11 @@ a.sign {
     }
 
 .ch-img-1 {
-    background-image: url(../images/w2.jpg);
+    background-image: url(../Images/w2.jpg);
 }
 
 .ch-img-2 {
-    background-image: url(../images/w1.jpg);
+    background-image: url(../Images/w1.jpg);
 }
 
 .ch-info h4 {
@@ -793,7 +793,7 @@ a.sign {
 }
 /*--bottom-section--*/
 .bottom-section {
-    background: url(../images/bottom.jpg) no-repeat 0px 0px;
+    background: url(../Images/bottom.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -925,7 +925,7 @@ a.sign {
 }
 /*--about--*/
 .banner.two {
-    background: url(../images/bg-two.jpg) no-repeat 0px 0px;
+    background: url(../Images/bg-two.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -993,7 +993,7 @@ a.sign {
     height: 22px;
     border: none;
     text-indent: 100%;
-    background: url(../images/move-top.png) no-repeat 0px 0px;
+    background: url(../Images/move-top.png) no-repeat 0px 0px;
 }
 /*--responsive--*/
 @media (max-width:1440px) {
@@ -1022,7 +1022,7 @@ a.sign {
         }
 
     .banner.two {
-        background: url(../images/bg-two.jpg) no-repeat 0px 0px;
+        background: url(../Images/bg-two.jpg) no-repeat 0px 0px;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -1047,7 +1047,7 @@ a.sign {
     }
 
     .bottom-section {
-        background: url(../images/bottom.jpg) no-repeat 0px 0px;
+        background: url(../Images/bottom.jpg) no-repeat 0px 0px;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -1076,7 +1076,7 @@ a.sign {
         }
 
     .bottom-section {
-        background: url(../images/bottom.jpg) no-repeat 0px 0px;
+        background: url(../Images/bottom.jpg) no-repeat 0px 0px;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -1095,7 +1095,7 @@ a.sign {
     }
 
     .banner.two {
-        background: url(../images/bg-two.jpg) no-repeat 0px 0px;
+        background: url(../Images/bg-two.jpg) no-repeat 0px 0px;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -1235,7 +1235,7 @@ a.sign {
     }
 
     .bottom-section {
-        background: url(../images/bottom.jpg) no-repeat 0px 0px;
+        background: url(../Images/bottom.jpg) no-repeat 0px 0px;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -1245,7 +1245,7 @@ a.sign {
     }
 
     .banner.two {
-        background: url(../images/bg-two.jpg) no-repeat 0px 0px;
+        background: url(../Images/bg-two.jpg) no-repeat 0px 0px;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -1466,7 +1466,7 @@ a.sign {
     }
 
     .bottom-section {
-        background: url(../images/bottom.jpg) no-repeat 0px 0px;
+        background: url(../Images/bottom.jpg) no-repeat 0px 0px;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -1518,7 +1518,7 @@ a.sign {
     }
 
     .banner.two {
-        background: url(../images/bg-two.jpg) no-repeat 0px 0px;
+        background: url(../Images/bg-two.jpg) no-repeat 0px 0px;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -1593,7 +1593,7 @@ a.sign {
     }
 
     .banner.two {
-        background: url(../images/bg-two.jpg) no-repeat 0px 0px;
+        background: url(../Images/bg-two.jpg) no-repeat 0px 0px;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -1800,7 +1800,7 @@ a.sign {
 
     span.menu {
         margin: 0.5em 0.1em 0.3em 0em;
-        background: url(../images/nav.png)no-repeat 0px 0px;
+        background: url(../Images/nav.png)no-repeat 0px 0px;
         background-size: 80%;
     }
 
@@ -1892,7 +1892,7 @@ a.sign {
     }
 
     .bottom-section {
-        background: url(../images/bottom.jpg) no-repeat 0px 0px;
+        background: url(../Images/bottom.jpg) no-repeat 0px 0px;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -1988,7 +1988,7 @@ a.sign {
     }
 
     .banner.two {
-        background: url(../images/bg-two.jpg) no-repeat 0px 0px;
+        background: url(../Images/bg-two.jpg) no-repeat 0px 0px;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
