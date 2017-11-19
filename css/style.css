@@ -213,7 +213,7 @@ a.sign {
 
 .banner {
     min-height: 722px;
-    background: url(/Images/pics/1.jpg) no-repeat;
+    background: url(/Images/pics/1.JPG) no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -476,15 +476,6 @@ a.sign {
         border: 0;
     }
 
-/*.slide1{
-    background: url("/Images/pics/1.jpg");
-}
-.slide2{
-    background: url("/Images/pics/2.jpg");
-}
-.slide3{
-    background: url("/Images/pics/3.jpg");
-}*/
 .callbacks_tabs {
     list-style: none;
     position: absolute;
@@ -684,7 +675,7 @@ a.sign {
     transition: all 0.4s ease-in-out;
     top: 10px;
     left: 10px;
-    background: #f9f9f9 url(../Images/bg.jpg);
+    background: #f9f9f9 url(../Images/bg.JPG);
     box-shadow: 0 0 0 20px rgba(255,255,255,0.2), inset 0 0 3px rgba(115,114, 23, 0.8);
     background-size: cover;
 }
@@ -738,7 +729,7 @@ a.sign {
 }
 
 .ch-img-2 {
-    background-image: url(../Images/w1.jpg);
+    background-image: url(../Images/w1.JPG);
 }
 
 .ch-info h4 {
