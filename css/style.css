@@ -578,10 +578,10 @@ a.sign {
 .count-down > div {
     width: 100%;
     /* margin: auto; */
-    /* max-width: 600px; */
+    max-width: 300px;
     /* text-align: center; */
-    /* padding: 25px 0 0 0; */
-    /* display: grid; */
+    padding: 25px 0 0 0;
+    /* display: inline-block; */
 }
 
     .count-down > div > div {
@@ -1004,7 +1004,7 @@ a.sign {
 
     .banner-info {
         width: 60%;
-        margin: 16% auto 0;
+        margin: 10% auto 0;
         text-align: center;
     }
 
